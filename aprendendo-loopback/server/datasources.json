@@ -1,0 +1,12 @@
+{
+  "usuarios": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "loopback",
+    "password": "admin",
+    "name": "usuarios",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
