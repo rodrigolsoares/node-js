@@ -2,7 +2,7 @@ const restify = require("restify");
 var fs = require('fs');
 
 const googleMapsClient = require('@google/maps').createClient({
-  key: 'AIzaSyAVbUQNNGKFeUMHDNZCilrkNklhPE83wKk',
+  key: '[Enter Key google developer]',
   Promise: Promise
 });
 const knex = require('knex')({
